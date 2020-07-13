@@ -10,5 +10,3 @@ The overall circuit consists of 3 submodules:
 
 <br>
 The adder architecture is implemented by the <strong>Carry Look Ahead Adder</strong> unit that bonds all the entities together. 
-
-#### The code was developed in cooperation with @gfrangias
