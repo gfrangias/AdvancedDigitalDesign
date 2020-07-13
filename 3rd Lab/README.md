@@ -3,4 +3,4 @@ every cycle the counting step.
 The counter also has a synchronous reset signal. 
 
 Since the counter has increasing and decreasing counting steps, an overflow and underflow control for the output is also implemented
-#### The code was developed in cooperation with @gfrangias
+
